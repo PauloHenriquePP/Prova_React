@@ -5,7 +5,7 @@ import { FaBuilding } from "react-icons/fa6"
 import { MdPeopleAlt } from "react-icons/md"
 import { Container } from "./styles"
 
-const github = "Jelido"
+const github = "PauloHenriquePP"
 
 export function User() {
     const [data, setData] = useState()
